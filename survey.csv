@@ -1,0 +1,102 @@
+,Day, decision-to-visit,favourite,satisfaction     ,most-appealing,fav-item,rating,brand,quality,recipe,whopper, ingredients,gender
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,4,Toppings,Male
+,Never,Proximity,Whopper,Food quality,Discounts,French fries,3,McDonald's,McDonald's,customize recipe,4,Bun,Female
+,Once in a month,Menu options,Hershey's Sundae Pie,Food quality,Combo Meal,Milkshakes,3,McDonald's,Burger King,customize recipe,4,Toppings,Male
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,Softdrinks,4,Burger King,Burger King,standardized recipe,4,Meat,Female
+,Twice in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,4,Toppings,Male
+,Once in a month,Proximity,Whopper,Food quality,Discounts,French fries,4,Burger King,Burger King,customize recipe,3,Toppings,Female
+,Once in a month,Pricing,Whopper,Service speed,Combo Meal,Softdrinks,4,McDonald's,McDonald's,standardized recipe,5,Meat,Male
+,Never,Menu options,Whopper,Food quality,Combo Meal,French fries,3,Burger King,Burger King,customize recipe,4,Meat,Female
+,Once in a month,Menu options,Crispy Chicken Sandwich,Food quality,Combo Meal,Softdrinks,4,McDonald's,Burger King,standardized recipe,3,Toppings,Female
+,Twice in a month,Pricing,Crispy Chicken Sandwich,Food quality,Combo Meal,Softdrinks,3,Burger King,Burger King,customize recipe,3,Toppings,Female
+,Never,Pricing,Whopper,Cleanliness,Limited time menu items,Softdrinks,2,McDonald's,McDonald's,standardized recipe,3,Meat,Male
+,Never,Pricing,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,3,McDonald's,McDonald's,standardized recipe,1,Toppings,Male
+,Once in a month,Proximity,Chicken Nuggets,Food quality,Combo Meal,French fries,3,Burger King,Burger King,customize recipe,3,Toppings,Female
+,Once in a month,Pricing,Chicken Nuggets,Food quality,Combo Meal,Milkshakes,1,Burger King,Burger King,standardized recipe,1,Meat,Female
+,Once in a month,Menu options,Chicken Nuggets,Food quality,Combo Meal,Milkshakes,3,McDonald's,McDonald's,standardized recipe,4,Toppings,Male
+,Never,Menu options,Whopper,Service speed,Combo Meal,Milkshakes,1,McDonald's,McDonald's,standardized recipe,1,Bun,Male
+,Twice in a week,Pricing,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,5,Burger King,Burger King,customize recipe,4,Meat,Female
+,Twice in a week,Menu options,Bacon King,Food quality,Combo Meal,French fries,4,McDonald's,McDonald's,customize recipe,2,Toppings,Male
+,Twice in a month,Proximity,Bacon King,Cleanliness,Limited time menu items,Milkshakes,5,McDonald's,McDonald's,customize recipe,3,Bun,Male
+,Never,Menu options,Hershey's Sundae Pie,Food quality,Combo Meal,French fries,4,McDonald's,Burger King,standardized recipe,3,Toppings,Female
+,Twice in a month,Proximity,Whopper,Service speed,Discounts,Softdrinks,4,Burger King,Burger King,standardized recipe,4,Bun,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,Milkshakes,1,McDonald's,McDonald's,customize recipe,2,Bun,Female
+,Never,Menu options,Chicken Nuggets,Cleanliness,Discounts,Salad,3,Burger King,Burger King,customize recipe,3,Meat,Female
+,Once in a month,Pricing,Chicken Nuggets,Service speed,Discounts,Milkshakes,2,McDonald's,McDonald's,customize recipe,2,Meat,Female
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,McDonald's,McDonald's,customize recipe,4,Toppings,Male
+,Twice in a week,Pricing,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,5,Toppings,Female
+,Once in a month,Proximity,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,customize recipe,4,Meat,Male
+,Never,Menu options,Hershey's Sundae Pie,Cleanliness,Combo Meal,Softdrinks,4,Burger King,Burger King,standardized recipe,5,Meat,Male
+,Twice in a month,Menu options,Bacon King,Food quality,Limited time menu items,Softdrinks,4,Burger King,McDonald's,standardized recipe,1,Toppings,Female
+,Once in a month,Proximity,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,4,Meat,Male
+,Once in a month,Proximity,Chicken Nuggets,Food quality,Discounts,French fries,4,McDonald's,McDonald's,standardized recipe,3,Toppings,Male
+,Never,Menu options,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,5,McDonald's,McDonald's,standardized recipe,4,Bun,Male
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,French fries,5,Burger King,Burger King,customize recipe,5,Toppings,Male
+,Once in a month,Pricing,Impossible Whopper,Food quality,Combo Meal,French fries,4,Burger King,McDonald's,customize recipe,4,Toppings,Male
+,Never,Pricing,Crispy Chicken Sandwich,Food quality,Discounts,French fries,3,Burger King,Burger King,standardized recipe,3,Bun,Male
+,Never,Pricing,Whopper,Food quality,Discounts,French fries,5,McDonald's,McDonald's,customize recipe,4,Meat,Male
+,Twice in a month,Menu options,Chicken Nuggets,Service speed,Combo Meal,French fries,4,McDonald's,Burger King,customize recipe,3,Meat,Female
+,Twice in a month,Pricing,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,4,Bun,Female
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,French fries,5,Burger King,Burger King,standardized recipe,5,Bun,Female
+,Once in a week,Menu options,Crispy Chicken Sandwich,Cleanliness,Discounts,French fries,5,Burger King,Burger King,customize recipe,5,Meat,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,3,Burger King,Burger King,customize recipe,3,Toppings,Male
+,Once in a month,Menu options,Crispy Chicken Sandwich,Food quality,Discounts,Milkshakes,4,McDonald's,Burger King,customize recipe,4,Meat,Male
+,Never,Proximity,Chicken Nuggets,Cleanliness,Combo Meal,French fries,3,McDonald's,McDonald's,customize recipe,2,Toppings,Female
+,Once in a week,Menu options,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,2,Burger King,Burger King,customize recipe,4,Meat,Male
+,Once in a month,Menu options,Whopper,Service speed,Combo Meal,French fries,3,McDonald's,McDonald's,customize recipe,3,Meat,Male
+,Once in a month,Pricing,Chicken Nuggets,Food quality,Discounts,Milkshakes,5,Burger King,Burger King,standardized recipe,5,Toppings,Female
+,Twice in a week,Menu options,Bacon King,Food quality,Discounts,Milkshakes,5,McDonald's,McDonald's,standardized recipe,3,Meat,Female
+,Once in a month,Proximity,Impossible Whopper,Food quality,Combo Meal,Softdrinks,2,Burger King,Burger King,standardized recipe,2,Meat,Male
+,Twice in a month,Menu options,Chicken Nuggets,Food quality,Limited time menu items,French fries,3,McDonald's,Burger King,customize recipe,3,Toppings,Male
+,Once in a month,Menu options,Whopper,Service speed,Discounts,French fries,3,Burger King,Burger King,customize recipe,4,Meat,Female
+,Twice in a week,Pricing,Whopper,Service speed,Combo Meal,Milkshakes,2,Burger King,McDonald's,standardized recipe,4,Meat,Female
+,Once in a month,Pricing,Crispy Chicken Sandwich,Service speed,Discounts,French fries,3,Burger King,Burger King,customize recipe,4,Toppings,Female
+,Never,Proximity,Chicken Nuggets,Service speed,Limited time menu items,French fries,1,McDonald's,McDonald's,standardized recipe,1,Toppings,Female
+,Twice in a month,Menu options,Crispy Chicken Sandwich,Food quality,Discounts,Milkshakes,3,McDonald's,McDonald's,standardized recipe,3,Toppings,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,McDonald's,McDonald's,standardized recipe,3,Toppings,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,standardized recipe,4,Toppings,Female
+,Twice in a month,Proximity,Crispy Chicken Sandwich,Cleanliness,Combo Meal,French fries,4,Burger King,Burger King,customize recipe,3,Toppings,Female
+,Never,Menu options,Bacon King,Cleanliness,Combo Meal,French fries,3,Burger King,Burger King,customize recipe,1,Bun,Female
+,Once in a month,Pricing,Whopper,Food quality,Discounts,French fries,5,McDonald's,McDonald's,standardized recipe,5,Bun,Male
+,Once in a month,Pricing,Chicken Nuggets,Food quality,Combo Meal,French fries,3,Burger King,Burger King,customize recipe,3,Meat,Male
+,Twice in a month,Menu options,Chicken Nuggets,Food quality,Combo Meal,Softdrinks,3,Burger King,Burger King,standardized recipe,3,Bun,Female
+,Once in a week,Menu options,Chicken Nuggets,Food quality,Limited time menu items,Softdrinks,3,Burger King,Burger King,customize recipe,1,Meat,Female
+,Once in a month,Proximity,Whopper,Food quality,Combo Meal,Softdrinks,3,Burger King,Burger King,standardized recipe,4,Meat,Male
+,Once in a week,Pricing,Impossible Whopper,Food quality,Discounts,French fries,5,McDonald's,McDonald's,customize recipe,3,Toppings,Female
+,Once in a month,Proximity,Crispy Chicken Sandwich,Food quality,Discounts,Onion rings,3,McDonald's,McDonald's,customize recipe,3,Bun,Female
+,Twice in a month,Menu options,Whopper,Food quality,Discounts,Milkshakes,4,Burger King,Burger King,standardized recipe,4,Toppings,Male
+,Once in a month,Proximity,Chicken Nuggets,Food quality,Limited time menu items,Milkshakes,2,McDonald's,McDonald's,standardized recipe,1,Bun,Female
+,Twice in a month,Menu options,Whopper,Service speed,Combo Meal,French fries,3,McDonald's,McDonald's,customize recipe,5,Meat,Male
+,Once in a month,Pricing,Crispy Chicken Sandwich,Service speed,Discounts,Softdrinks,3,McDonald's,McDonald's,standardized recipe,3,Meat,Female
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,Softdrinks,4,McDonald's,McDonald's,customize recipe,3,Bun,Male
+,Never,Menu options,Whopper,Cleanliness,Discounts,French fries,3,McDonald's,McDonald's,standardized recipe,3,Toppings,Female
+,Once in a month,Proximity,Chicken Nuggets,Food quality,Combo Meal,Milkshakes,3,Burger King,Burger King,customize recipe,3,Toppings,Male
+,Once in a month,Menu options,Hershey's Sundae Pie,Food quality,Combo Meal,Milkshakes,4,McDonald's,McDonald's,customize recipe,3,Meat,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,McDonald's,Burger King,standardized recipe,4,Meat,Male
+,Once in a month,Pricing,Chicken Nuggets,Service speed,Discounts,French fries,3,McDonald's,Burger King,customize recipe,3,Toppings,Male
+,Once in a month,Pricing,Chicken Nuggets,Food quality,Limited time menu items,French fries,4,Burger King,Burger King,customize recipe,4,Meat,Male
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,customize recipe,3,Meat,Female
+,Once in a month,Menu options,Chicken Nuggets,Cleanliness,Combo Meal,Milkshakes,5,McDonald's,McDonald's,standardized recipe,5,Bun,Female
+,Twice in a month,Menu options,Chicken Nuggets,Food quality,Combo Meal,Milkshakes,3,Burger King,Burger King,customize recipe,4,Meat,Male
+,Never,Menu options,Whopper,Food quality,Discounts,French fries,3,McDonald's,McDonald's,standardized recipe,4,Meat,Female
+,Once in a month,Pricing,Crispy Chicken Sandwich,Food quality,Combo Meal,Softdrinks,3,McDonald's,McDonald's,standardized recipe,2,Toppings,Female
+,Once in a week,Menu options,Bacon King,Cleanliness,Combo Meal,Milkshakes,4,McDonald's,McDonald's,standardized recipe,4,Toppings,Female
+,Once in a month,Menu options,Chicken Nuggets,Food quality,Discounts,French fries,4,Burger King,Burger King,standardized recipe,4,Toppings,Male
+,Once in a month,Pricing,Whopper,Food quality,Discounts,French fries,3,McDonald's,McDonald's,standardized recipe,3,Meat,Female
+,Once in a month,Proximity,Hershey's Sundae Pie,Service speed,Combo Meal,French fries,3,McDonald's,Burger King,standardized recipe,3,Meat,Male
+,Once in a week,Proximity,Impossible Whopper,Cleanliness,Combo Meal,Milkshakes,4,Burger King,Burger King,customize recipe,4,Meat,Male
+,Once in a month,Proximity,Whopper,Food quality,Discounts,French fries,4,Burger King,Burger King,customize recipe,4,Bun,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,French fries,4,McDonald's,McDonald's,customize recipe,4,Meat,Male
+,Once in a month,Proximity,Whopper,Food quality,Combo Meal,French fries,4,Burger King,Burger King,customize recipe,4,Meat,Female
+,Never,Menu options,Crispy Chicken Sandwich,Food quality,Combo Meal,French fries,3,McDonald's,McDonald's,standardized recipe,1,Toppings,Female
+,Twice in a month,Menu options,Bacon King,Service speed,Combo Meal,Milkshakes,4,Burger King,Burger King,customize recipe,5,Bun,Male
+,Once in a month,Pricing,Whopper,Food quality,Combo Meal,French fries,4,McDonald's,McDonald's,customize recipe,4,Bun,Female
+,Once in a month,Menu options,Chicken Nuggets,Food quality,Combo Meal,Salad,2,Burger King,McDonald's,customize recipe,1,Meat,Female
+,Never,Pricing,Whopper,Cleanliness,Limited time menu items,Softdrinks,1,McDonald's,McDonald's,standardized recipe,3,Toppings,Male
+,Once in a month,Proximity,Whopper,Service speed,Discounts,French fries,4,McDonald's,McDonald's,customize recipe,3,Toppings,Female
+,Once in a week,Menu options,Crispy Chicken Sandwich,Service speed,Limited time menu items,Onion rings,2,Burger King,Burger King,customize recipe,1,Toppings,Male
+,Once in a month,Menu options,Whopper,Food quality,Combo Meal,Softdrinks,3,Burger King,Burger King,standardized recipe,4,Toppings,Male
+,Twice in a month,Menu options,Impossible Whopper,Service speed,Limited time menu items,Salad,3,McDonald's,Burger King,standardized recipe,5,Toppings,Male
+,Once in a week,Menu options,Crispy Chicken Sandwich,Cleanliness,Combo Meal,French fries,2,Burger King,Burger King,customize recipe,2,Toppings,Female
+,Once in a week,Menu options,Bacon King,Service speed,Limited time menu items,Milkshakes,2,McDonald's,Burger King,standardized recipe,2,Meat,Female
+,Twice in a month,Pricing,Chicken Nuggets,Food quality,Combo Meal,Milkshakes,5,Burger King,Burger King,customize recipe,4,Toppings,Male
